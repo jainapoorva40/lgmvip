@@ -1,1 +1,1 @@
-# lgmsoc
+# lgmVip
